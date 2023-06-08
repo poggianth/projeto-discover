@@ -47,4 +47,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+
+## :handshake: Agradecimentos
+
+Parabéns <b><a href="https://www.rocketseat.com.br/">Rocketseat</a></b> por este belo trabalho de apresentar e ensinar sobre maravilhoso mundo da programação!
+
 ---
